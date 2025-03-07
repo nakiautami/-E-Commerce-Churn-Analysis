@@ -1,6 +1,5 @@
-# -E-Commerce-Churn-Analysis
-
 # E-Commerce-Churn-Analysis
+
 Oleh:
 -  Azhar Maulana
 - Eki Nakia Utami
